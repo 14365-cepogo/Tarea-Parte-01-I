@@ -1,0 +1,75 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.espacio {
+   margin-top: 2%;
+   background-color: #00FFFF;
+   padding: 2%;
+   border: 4px solid #8B8B8E;
+   border-radius: 10px;
+   text-align: center;
+   width: 100%;
+}
+
+.image-logo{
+   width: 35%;
+}
+
+.espacio2 {
+   border: 4px solid #8B8B8E;
+   border-radius: 10px;
+   text-align: center;
+   height: 200%;
+}
+
+.espacio3 {
+   padding: 3%;
+   width: 70%;
+   height: 40px;
+   margin: 0 auto;
+   margin-top: 10px;
+   border: 1px solid #8B8B8E;
+   border-radius: 5px;
+   background-color: #dadada;
+}
+
+.color1 {
+   background-color: #339933;
+}
+
+h2 {
+   color: white;
+   font-size: 35px;
+}
+
+p {
+   font-size: 14px;
+}
+
+.Video {
+   width: 108%;
+   margin-left: -4%;
+   margin-top: 0px;
+   margin-bottom: -7px;
+   border: 1px solid black;
+   border-radius: 5px;
+}
+
+.espacio4 {
+   border: 4px solid #8B8B8E;
+   background-color: #FFFF00;
+   border-radius: 10px;
+   text-align: center;
+}
+
+.espacio5 {
+   margin: 10px 40px 10px ;
+}
+
+.color-ig {
+   background-color: #F77737;
+   color: white;
+}
